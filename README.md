@@ -1,2 +1,2 @@
 # LINESENSE-DEMO
-A demo for automatic detection of line breaks systems
+A demo for automatic detection of low tension line breaks systems
