@@ -1,0 +1,5 @@
+Add files via upload
+the above scripts are to be kept in a single folder 
+the simulator .py script sends simulated readings in real time to detector.py through a tcp channel and thereby the detector does the necessary functions with the recieved data
+the app.py creates a dashboard to run all 2 scripts in tandem
+to run :- python -m streamlit run /path in your pc / app.py
